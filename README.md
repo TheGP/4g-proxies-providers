@@ -1,9 +1,14 @@
 # 4g proxies providers list
 
 ## Per data:
-* [DataImpulse](https://dataimpulse.com/?aff=10601) $2/Gb
-
-## Unlimited:
+* [DataImpulse](https://dataimpulse.com/?aff=10601) $2/Gb (not mobile $1)
+* [BrightData](https://get.brightdata.com/jdpda3d3pu8n) - $5-8/GB for mobile
+* [GeoNode](https://geonode.com/plans/mobile-proxies) - $9-10/Gb (from $5.5)
+* [Soax](https://soax.com?afmc=9e) - starts at $6.6/GB min 15Gb
+* [IPRoyal](https://iproyal.com/?r=381340) - $117-130/month
+* [922proxy](https://www.922proxy.com/index.html?inviter_code=eac554c7) - $3/GB (up to 60 min), $0.22/IP, $5/30 days
+  
+## Unlimited (per port):
 
 Agregator:
 * [MobileProxy](https://mobileproxy.space/?p=183579)
