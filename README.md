@@ -5,14 +5,17 @@
 
 ## Unlimited:
 
+Agregator:
+* [MobileProxy](https://mobileproxy.space/?p=183579)
+
 I kinda tired to see agregators websites, so I collected actual farm guys contacts. Enjoy and welcome to add the ones you know!
 
 * [USA mobile proxies](https://t.me/mobproxyusa) - USA (Washington, Oregon, California, New York, Colorado), England, Germany, Poland
 * [Yalla Papi's Proxies](https://t.me/Yallapapi) - USA
 * [ProxyBean1](https://t.me/ProxyBean1) - USA, Spain
 * [iProxy PL](https://t.me/iproxy_pl) - Poland
-* [AnoProxy](https://www.anoproxy.online) - USA $80/m
-* [ProxySolid](https://t.me/ProxySolid) - Germany, $85/m
+* [AnoProxy](https://www.anoproxy.online) - USA $80
+* [ProxySolid](https://t.me/ProxySolid) - Germany, $85
 * [ProxyBrothers](https://proxybrothers.com/german-mobile-proxy-with-real-devices-powered-by-iproxy-software/)
 * [Elén Petrova](https://t.me/elenwowpetrova) - Spain, $65
 * [KingProxyUK](https://t.me/KingProxyUK) - UK
@@ -30,7 +33,13 @@ I kinda tired to see agregators websites, so I collected actual farm guys contac
 * [Merrysel](https://t.me/merrysel) - Ukraine, Poland
 * [Jumagaliast](https://t.me/jumagaliast) - Kazahstan
 * [iShop](https://t.me/ishop_tg) - USA, Kazahstan, Poland, UK, Germany, Spain, Ukraine
-
+* [Sasha](https://t.me/PacoEsscobar) - Kazahstan
+* [DrzztDUrdn](https://t.me/DrzztDUrdn) - Georgia
+* [Alisaproxy](https://alisaproxy.com️) - Bulgaria, $65
+* [ProxyBrazil](https://www.proxybrazil.com) - Brazil, $46.47
+* [Gold Estonia Proxy](https://t.me/xscamp33) - Estonia
+* [QazAkk Proxy](https://t.me/soloarbitrazhnik) $40 Kazakhstan, Georgia
+* [Dominate proxy](https://t.me/kirbythegreat) - Malaysia
 
 
 
