@@ -21,7 +21,7 @@ I kinda tired to see agregators websites, so I collected actual farm guys contac
 * [iProxy PL](https://t.me/iproxy_pl) - Poland
 * [AnoProxy](https://www.anoproxy.online) - USA $80
 * [ProxySolid](https://t.me/ProxySolid) - Germany, $85
-* [ProxyBrothers](https://proxybrothers.com/german-mobile-proxy-with-real-devices-powered-by-iproxy-software/)
+* [ProxyBrothers](https://proxybrothers.com/german-mobile-proxy-with-real-devices-powered-by-iproxy-software/) - Germany
 * [Elén Petrova](https://t.me/elenwowpetrova) - Spain, $65
 * [KingProxyUK](https://t.me/KingProxyUK) - UK
 * [USProxy](https://usproxy.club/) - USA $85/m
@@ -45,7 +45,9 @@ I kinda tired to see agregators websites, so I collected actual farm guys contac
 * [Gold Estonia Proxy](https://t.me/xscamp33) - Estonia
 * [QazAkk Proxy](https://t.me/soloarbitrazhnik) $40 Kazakhstan, Georgia
 * [Dominate proxy](https://t.me/kirbythegreat) - Malaysia
-
+* [HobbitProxy](https://mobile-proxy-belarus.com/) - Belarus $28
+* [HobbitProxy](https://proxy-hobbit-poland.com/en) - Poland $47.1
+* [CarrierProxy](https://carrierproxy.com/eng) - Russia $28, Poland $55, Thailand $45, Brazil $65, Peru $65, Germany $65, Netherlands $75, Belarus $35, USA $80, $70 Spain
 
 
 
