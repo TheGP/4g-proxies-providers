@@ -48,6 +48,7 @@ I kinda tired to see agregators websites, so I collected actual farm guys contac
 * [HobbitProxy](https://mobile-proxy-belarus.com/) - Belarus $28
 * [HobbitProxy](https://proxy-hobbit-poland.com/en) - Poland $47.1
 * [CarrierProxy](https://carrierproxy.com/eng) - Russia $28, Poland $55, Thailand $45, Brazil $65, Peru $65, Germany $65, Netherlands $75, Belarus $35, USA $80, $70 Spain
+* [Spaw](https://spaw.co/pricing) - Poland $50, UK $70, $60 Latvia
 
 
 
