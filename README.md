@@ -50,6 +50,7 @@ I kinda tired to see agregators websites, so I collected actual farm guys contac
 * [CarrierProxy](https://carrierproxy.com/eng) - Russia $28, Poland $55, Thailand $45, Brazil $65, Peru $65, Germany $65, Netherlands $75, Belarus $35, USA $80, $70 Spain
 * [Spaw](https://spaw.co/pricing) - Poland $50, UK $70, $60 Latvia
 * [Carrierproxy](https://carrierproxy.com) - Russia $28, $55 Poland, $45 Thailand, $65 Brazil, $65 Peru, $65 Germany, $75 Netherlands, $35 Belarus, $80 USA, $70 Spain
+* [speedMSK](https://proxy_speedmsk.rents.ac/) - [Telegram](https://t.me/proxy_speedMSK_canal) Russia, Belarus, Ukraine, Kazahstan
 
 
 
