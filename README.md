@@ -52,6 +52,10 @@ I kinda tired to see agregators websites, so I collected actual farm guys contac
 * [Carrierproxy](https://carrierproxy.com) - Russia $28, $55 Poland, $45 Thailand, $65 Brazil, $65 Peru, $65 Germany, $75 Netherlands, $35 Belarus, $80 USA, $70 Spain
 * [speedMSK](https://proxy_speedmsk.rents.ac/) - [Telegram](https://t.me/proxy_speedMSK_canal) Russia, Belarus, Ukraine, Kazahstan
 
-
+## Making your own mobile proxies
+* [Proxidize](https://github.com/proxidize/proxidize-android/tree/main)
+* [Localtonet](https://localtonet.com/)
+* [Magic-Networks](https://magic-networks.com/)
+* [iProxy](https://iproxy.online/)
 
 May check maybe it has now more providers: [https://iproxy.online/blog/trustworthy-mobile-proxy-providers](https://iproxy.online/blog/trustworthy-mobile-proxy-providers)
