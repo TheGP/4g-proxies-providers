@@ -52,6 +52,7 @@ I kinda tired to see agregators websites, so I collected actual farm guys contac
 * [Spaw](https://spaw.co/pricing) - Poland $50, UK $70, $60 Latvia
 * [Carrierproxy](https://carrierproxy.com) - Russia $28, $55 Poland, $45 Thailand, $65 Brazil, $65 Peru, $65 Germany, $75 Netherlands, $35 Belarus, $80 USA, $70 Spain
 * [speedMSK](https://proxy_speedmsk.rents.ac/) - [Telegram](https://t.me/proxy_speedMSK_canal) Russia, Belarus, Ukraine, Kazahstan
+* [Siamproxy](https://siamproxy.com/) - Thailand $45
 
 ## Making your own mobile proxies
 * [Proxidize](https://github.com/proxidize/proxidize-android/tree/main)
