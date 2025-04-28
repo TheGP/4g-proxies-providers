@@ -52,6 +52,7 @@ I kinda tired to see agregators websites, so I collected actual farm guys contac
 * [Spaw](https://spaw.co/pricing) - Poland $50, UK $70, $60 Latvia
 * [speedMSK](https://proxy_speedmsk.rents.ac/) - [Telegram](https://t.me/proxy_speedMSK_canal) Russia, Belarus, Ukraine, Kazahstan
 * [Siamproxy](https://siamproxy.com/) - Thailand $45
+* [MountProxies](https://mountproxies.com/) - USA
 
 ## Making your own mobile proxies
 * [Proxidize](https://github.com/proxidize/proxidize-android/tree/main)
