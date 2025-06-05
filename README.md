@@ -1,4 +1,4 @@
-# 4g proxies providers list
+# 4g proxy providers list
 
 ## Per data:
 * [DataImpulse](https://dataimpulse.com/?aff=10601) $2/Gb (not mobile $1)
@@ -13,11 +13,11 @@
 
 ## Unlimited (per port):
 
-Agregator:
-* [MobileProxy](https://mobileproxy.space/?p=183579)
+Aggregators:
+* [MobileProxy](https://mobileproxy.space/?p=183579) - even if it's a reseller, some positions are cheap and with their discount, even cheaper than the source.
 * [LteBoost](https://lteboost.com/)
 
-I kinda tired to see agregators websites, so I collected actual farm guys contacts. Enjoy and welcome to add the ones you know!
+I'm kinda tired to see aggregator websites, so I collected actual farm guys' contacts. Enjoy, and welcome to add the ones you know!
 
 * [USA mobile proxies](https://t.me/mobproxyusa) - USA (Washington, Oregon, California, New York, Colorado), England, Germany, Poland
 * [Yalla Papi's Proxies](https://t.me/Yallapapi) - USA
@@ -41,7 +41,7 @@ I kinda tired to see agregators websites, so I collected actual farm guys contac
 * [fast_trust_rental](https://t.me/fast_trust_rental) - Ukraine, Poland
 * [Merrysel](https://t.me/merrysel) - Ukraine, Poland
 * [Jumagaliast](https://t.me/jumagaliast) - Kazahstan
-* [iShop](https://t.me/ishop_tg) - USA, Kazahstan, Poland, UK, Germany, Spain, Ukraine
+* [iShop](https://t.me/ishop_tg) - USA, Kazakhstan, Poland, UK, Germany, Spain, Ukraine
 * [Sasha](https://t.me/PacoEsscobar) - Kazahstan
 * [DrzztDUrdn](https://t.me/DrzztDUrdn) - Georgia
 * [Alisaproxy](https://alisaproxy.com️) - Bulgaria, $65
@@ -63,4 +63,4 @@ I kinda tired to see agregators websites, so I collected actual farm guys contac
 * [Magic-Networks](https://magic-networks.com/)
 * [iProxy](https://iproxy.online/)
 
-May check maybe it has now more providers: [https://iproxy.online/blog/trustworthy-mobile-proxy-providers](https://iproxy.online/blog/trustworthy-mobile-proxy-providers)
+May check if it has now more providers: [https://iproxy.online/blog/trustworthy-mobile-proxy-providers](https://iproxy.online/blog/trustworthy-mobile-proxy-providers)
