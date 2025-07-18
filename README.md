@@ -1,5 +1,7 @@
 # 4g proxy providers list
 
+If you need other types of proxies, you can check [proxy providers list](https://github.com/TheGP/proxy-providers-list).
+
 ## Per data:
 * [DataImpulse](https://dataimpulse.com/?aff=10601) $2/Gb (not mobile $1)
 * [BrightData](https://get.brightdata.com/jdpda3d3pu8n) - $5-8/GB for mobile
