@@ -18,6 +18,7 @@ If you need other types of proxies, you can check [proxy providers list](https:/
 Aggregators:
 * [MobileProxy](https://mobileproxy.space/?p=183579) - even if it's a reseller, some positions are cheap and with their discount, even cheaper than the source.
 * [LteBoost](https://lteboost.com/)
+* [Cyberyozh](https://app.cyberyozh.com/?pid=62367664b06c4b0aac06b18b00767bf2&utm_source=github&utm_medium=4g-providers) - USA, Canada, Portugal, Germany, UK, France, Israel, Netherlands, Ireland, Italy, Austria, Poland, Ukraine, Colombia, Indonesia, Latvia, Moldova, Romania, Sweden, Australia, Israel (dedicated + shared, $50-162)
 
 I'm kinda tired to see aggregator websites, so I collected actual farm guys' contacts. Enjoy, and welcome to add the ones you know!
 
