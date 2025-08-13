@@ -22,6 +22,8 @@ Aggregators:
 
 I'm kinda tired to see aggregator websites, so I collected actual farm guys' contacts. Enjoy, and welcome to add the ones you know!
 
+🛡️ - ovn config support (if its not present, means I didnt check yet or its not supported)
+
 * [USA mobile proxies](https://t.me/mobproxyusa) - USA (Washington, Oregon, California, New York, Colorado), England, Germany, Poland
 * [Yalla Papi's Proxies](https://t.me/Yallapapi) - USA
 * [ProxyBean1](https://t.me/ProxyBean1) - USA, Spain
@@ -31,9 +33,9 @@ I'm kinda tired to see aggregator websites, so I collected actual farm guys' con
 * [ProxyBrothers](https://proxybrothers.com/german-mobile-proxy-with-real-devices-powered-by-iproxy-software/) - Germany
 * [Elén Petrova](https://t.me/elenwowpetrova) - Spain, $65
 * [KingProxyUK](https://t.me/KingProxyUK) - UK
-* [USProxy](https://usproxy.club/) - USA $85/m
+* [USProxy](https://usproxy.club/) - USA $85/m 🛡️
 * [MexicoProxy](https://t.me/mexicoproxy) - Mexico
-* [ObitelProxy](https://www.obitel-proxy.com/en/) - Poland - $45, Ukraine - $35
+* [ObitelProxy](https://www.obitel-proxy.com/en/) - Poland - $45, Ukraine - $35 🛡️
 * [ProxyFastTR](https://t.me/ProxyFastTR) - Turkey
 * [RoProxy](https://t.me/RoProxy4G) - Romania
 * [Prox_Fox](https://t.me/Prox_Fox) - Spain, USA, Netherlands, Nicaragua
@@ -47,17 +49,17 @@ I'm kinda tired to see aggregator websites, so I collected actual farm guys' con
 * [iShop](https://t.me/ishop_tg) - USA, Kazakhstan, Poland, UK, Germany, Spain, Ukraine
 * [Sasha](https://t.me/PacoEsscobar) - Kazahstan
 * [DrzztDUrdn](https://t.me/DrzztDUrdn) - Georgia
-* [Alisaproxy](https://alisaproxy.com️) - Bulgaria, $65
+* [Alisaproxy](https://alisaproxy.com️) - Bulgaria, $65 🛡️
 * [ProxyBrazil](https://www.proxybrazil.com) - Brazil, $46.47
 * [Gold Estonia Proxy](https://t.me/xscamp33) - Estonia
 * [QazAkk Proxy](https://t.me/soloarbitrazhnik) $40 Kazakhstan, Georgia
 * [Dominate proxy](https://t.me/kirbythegreat) - Malaysia
 * [HobbitProxy](https://mobile-proxy-belarus.com/) - Belarus $28
 * [HobbitProxy](https://proxy-hobbit-poland.com/en) - Poland $47.1
-* [CarrierProxy](https://carrierproxy.com/eng) - Russia $28, Poland $55, Thailand $45, Brazil $65, Peru $65, Germany $65, Netherlands $75, Belarus $35, USA $80, $70 Spain
+* [CarrierProxy](https://carrierproxy.com/eng) - Russia $28, Poland $55, Thailand $45, Brazil $65, Peru $65, Germany $65, Netherlands $75, Belarus $35, USA $80, $70 Spain 🛡️
 * [Spaw](https://spaw.co/pricing) - Poland $50, UK $70, $60 Latvia
 * [speedMSK](https://proxy_speedmsk.rents.ac/) - [Telegram](https://t.me/proxy_speedMSK_canal) Russia, Belarus, Ukraine, Kazahstan
-* [Siamproxy](https://siamproxy.com/) - Thailand $45
+* [Siamproxy](https://siamproxy.com/) - Thailand $45 🛡️
 * [MountProxies](https://mountproxies.com/) - USA
 
 ## Making your own mobile proxies
