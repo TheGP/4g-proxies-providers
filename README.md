@@ -35,7 +35,7 @@ I'm kinda tired to see aggregator websites, so I collected actual farm guys' con
 * [KingProxyUK](https://t.me/KingProxyUK) - UK
 * [USProxy](https://usproxy.club/) - USA $85/m 🛡️
 * [MexicoProxy](https://t.me/mexicoproxy) - Mexico
-* [ObitelProxy](https://www.obitel-proxy.com/en/) - Poland - $45, Ukraine - $35 🛡️
+* [ObitelProxy](https://www.obitel-proxy.com/en/) - Poland - $45, Ukraine - $35 🛡️ 2h free test
 * [ProxyFastTR](https://t.me/ProxyFastTR) - Turkey
 * [RoProxy](https://t.me/RoProxy4G) - Romania
 * [Prox_Fox](https://t.me/Prox_Fox) - Spain, USA, Netherlands, Nicaragua
@@ -49,7 +49,7 @@ I'm kinda tired to see aggregator websites, so I collected actual farm guys' con
 * [iShop](https://t.me/ishop_tg) - USA, Kazakhstan, Poland, UK, Germany, Spain, Ukraine
 * [Sasha](https://t.me/PacoEsscobar) - Kazahstan
 * [DrzztDUrdn](https://t.me/DrzztDUrdn) - Georgia
-* [Alisaproxy](https://alisaproxy.com️) - Bulgaria, $65 🛡️
+* [Alisaproxy](https://alisaproxy.com️) - Bulgaria, $65 🛡️- 1-3h free test
 * [ProxyBrazil](https://www.proxybrazil.com) - Brazil, $46.47
 * [Gold Estonia Proxy](https://t.me/xscamp33) - Estonia
 * [QazAkk Proxy](https://t.me/soloarbitrazhnik) $40 Kazakhstan, Georgia
