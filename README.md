@@ -23,8 +23,10 @@ Aggregators:
 I'm kinda tired to see aggregator websites, so I collected actual farm guys' contacts. Enjoy, and welcome to add the ones you know!
 
 🛡️ - ovn config support (if its not present, means I didnt check yet or its not supported)
+🧬 - TCP fingerprint change
+* I added these icons only for proxies I know have it, so some proxies which missing the icons may have it, need to ask them
 
-* [LteSocks](https://my.ltesocks.io/register?referrerToken=SQHWPOOP4VNVXWQD) - USA $145, Europe (many countries) $50-145, Indonesia $60 🛡️free test + TCP fingerprint change
+* [LteSocks](https://my.ltesocks.io/register?referrerToken=SQHWPOOP4VNVXWQD) - USA $145, Europe (many countries) $50-145, Indonesia $60 🛡️🧬 free test
 * [USA mobile proxies](https://t.me/mobproxyusa) - USA (Washington, Oregon, California, New York, Colorado), England, Germany, Poland
 * [Yalla Papi's Proxies](https://t.me/Yallapapi) - USA
 * [ProxyBean1](https://t.me/ProxyBean1) - USA, Spain
@@ -36,7 +38,7 @@ I'm kinda tired to see aggregator websites, so I collected actual farm guys' con
 * [KingProxyUK](https://t.me/KingProxyUK) - UK
 * [USProxy](https://usproxy.club/) - USA $85/m 🛡️
 * [MexicoProxy](https://t.me/mexicoproxy) - Mexico
-* [ObitelProxy](https://www.obitel-proxy.com/en/) - Poland - $45, Ukraine - $35 🛡️ 2h free test
+* [ObitelProxy](https://www.obitel-proxy.com/en/) - Poland - $45, Ukraine - $35 🛡️🧬 2h free test
 * [ProxyFastTR](https://t.me/ProxyFastTR) - Turkey
 * [RoProxy](https://t.me/RoProxy4G) - Romania
 * [Prox_Fox](https://t.me/Prox_Fox) - Spain, USA, Netherlands, Nicaragua
