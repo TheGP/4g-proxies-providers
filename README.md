@@ -22,9 +22,12 @@ Aggregators:
 
 I'm kinda tired to see aggregator websites, so I collected actual farm guys' contacts. Enjoy, and welcome to add the ones you know!
 
-🛡️ - ovn config support (if its not present, means I didnt check yet or its not supported)
-🧬 - TCP fingerprint change
-* I added these icons only for proxies I know have it, so some proxies which missing the icons may have it, need to ask them
+> [!NOTE] 
+> 🛡️ - ovn config support (if its not present, means I didnt check yet or its not supported)
+> 
+> 🧬 - TCP fingerprint change
+> 
+> I added these icons only for proxies I know have it, so some proxies which missing the icons may have it, need to ask them
 
 * [LteSocks](https://my.ltesocks.io/register?referrerToken=SQHWPOOP4VNVXWQD) - USA $145, Europe (many countries) $50-145, Indonesia $60 🛡️🧬 free test
 * [USA mobile proxies](https://t.me/mobproxyusa) - USA (Washington, Oregon, California, New York, Colorado), England, Germany, Poland
