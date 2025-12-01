@@ -24,6 +24,7 @@ I'm kinda tired to see aggregator websites, so I collected actual farm guys' con
 
 🛡️ - ovn config support (if its not present, means I didnt check yet or its not supported)
 
+* [LteSocks](https://my.ltesocks.io/register?referrerToken=SQHWPOOP4VNVXWQD) - USA $145, Europe (many countries) $50-145, Indonesia $60 🛡️free test + TCP fingerprint change
 * [USA mobile proxies](https://t.me/mobproxyusa) - USA (Washington, Oregon, California, New York, Colorado), England, Germany, Poland
 * [Yalla Papi's Proxies](https://t.me/Yallapapi) - USA
 * [ProxyBean1](https://t.me/ProxyBean1) - USA, Spain
