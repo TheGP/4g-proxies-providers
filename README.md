@@ -69,6 +69,7 @@ I'm kinda tired to see aggregator websites, so I collected actual farm guys' con
 * [MountProxies](https://mountproxies.com/) - USA
 
 ## Making your own mobile proxies
+* [Proxysmart](https://proxysmart.org)
 * [Proxidize](https://github.com/proxidize/proxidize-android/tree/main)
 * [Localtonet](https://localtonet.com/)
 * [Magic-Networks](https://magic-networks.com/)
