@@ -31,6 +31,7 @@ I'm kinda tired to see aggregator websites, so I collected actual farm guys' con
 
 * [LteSocks](https://my.ltesocks.io/register?referrerToken=SQHWPOOP4VNVXWQD) - USA $145, Europe (many countries) $50-145, Indonesia $60 🛡️🧬 free test
 * [USA mobile proxies](https://t.me/mobproxyusa) - USA (Washington, Oregon, California, New York, Colorado), England, Germany, Poland
+* [PXM2 Mobile Proxies](https://pxm2.io) - UK, SG, VN (very cheap hour / day rates!)
 * [Yalla Papi's Proxies](https://t.me/Yallapapi) - USA
 * [ProxyBean1](https://t.me/ProxyBean1) - USA, Spain
 * [iProxy PL](https://t.me/iproxy_pl) - Poland
@@ -67,7 +68,6 @@ I'm kinda tired to see aggregator websites, so I collected actual farm guys' con
 * [speedMSK](https://proxy_speedmsk.rents.ac/) - [Telegram](https://t.me/proxy_speedMSK_canal) Russia, Belarus, Ukraine, Kazahstan
 * [Siamproxy](https://siamproxy.com/) - Thailand $45 🛡️🧬 (trial just $5 for a day)
 * [MountProxies](https://mountproxies.com/) - USA
-* [PXM2 Mobile Proxies](https://pxm2.io) - UK, SG, VN
 
 ## Making your own mobile proxies
 * [Proxysmart](https://proxysmart.org)
