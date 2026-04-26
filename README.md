@@ -19,6 +19,7 @@ Aggregators:
 * [MobileProxy](https://mobileproxy.space/?p=183579) - even if it's a reseller, some positions are cheap and with their discount, even cheaper than the source.
 * [LteBoost](https://lteboost.com/)
 * [Cyberyozh](https://app.cyberyozh.com/?pid=62367664b06c4b0aac06b18b00767bf2&utm_source=github&utm_medium=4g-providers) - USA, Canada, Portugal, Germany, UK, France, Israel, Netherlands, Ireland, Italy, Austria, Poland, Ukraine, Colombia, Indonesia, Latvia, Moldova, Romania, Sweden, Australia, Israel (dedicated + shared, $50-162)
+* [Coronium](https://www.coronium.io) - dedicated 4G/5G modems in 20+ countries (USA $129, UK $99, Germany $79, France $79, Spain $79, Poland $69, Netherlands $79, Ukraine $34, Georgia $50, Australia $129, Brazil $99, Italy $89, Portugal $79, Ireland $59, Canada $99, Japan $129, India $79, NZ $119) - public REST API for provisioning/rotation/replacement, [reseller program](https://www.coronium.io/resell-proxy) with USDC top-up + per-port white-label credentials, prorated cancel + replacement credits, Telegram [@coroniumio](https://t.me/coroniumio) 🛡️🧬
 
 I'm kinda tired to see aggregator websites, so I collected actual farm guys' contacts. Enjoy, and welcome to add the ones you know!
 
