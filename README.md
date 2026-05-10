@@ -69,6 +69,7 @@ I'm kinda tired to see aggregator websites, so I collected actual farm guys' con
 * [speedMSK](https://proxy_speedmsk.rents.ac/) - [Telegram](https://t.me/proxy_speedMSK_canal) Russia, Belarus, Ukraine, Kazahstan
 * [Siamproxy](https://siamproxy.com/) - Thailand $45 🛡️🧬 (trial just $5 for a day)
 * [MountProxies](https://mountproxies.com/) - USA
+* [HypeProxy](https://hypeproxy.io/) - USA, France $65+
 
 ## Making your own mobile proxies
 * [Proxysmart](https://proxysmart.org)
