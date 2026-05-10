@@ -17,6 +17,7 @@ If you need other types of proxies, you can check [proxy providers list](https:/
 
 Aggregators:
 * [MobileProxy](https://mobileproxy.space/?p=183579) - even if it's a reseller, some positions are cheap and with their discount, even cheaper than the source.
+* [Coronium](https://dashboard.coronium.io/en/sign-up#3c6d70584a0e53649fbe119333572b94) - 30+ countries, appropriate pricing
 * [LteBoost](https://lteboost.com/)
 * [Cyberyozh](https://app.cyberyozh.com/?pid=62367664b06c4b0aac06b18b00767bf2&utm_source=github&utm_medium=4g-providers) - USA, Canada, Portugal, Germany, UK, France, Israel, Netherlands, Ireland, Italy, Austria, Poland, Ukraine, Colombia, Indonesia, Latvia, Moldova, Romania, Sweden, Australia, Israel (dedicated + shared, $50-162)
 
