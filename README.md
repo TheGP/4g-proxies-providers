@@ -10,6 +10,7 @@ If you need other types of proxies, you can check [proxy providers list](https:/
 * [IPRoyal](https://iproyal.com/?r=381340) - $117-130/month
 * [922proxy](https://www.922proxy.com/index.html?inviter_code=eac554c7) - $3/GB (up to 60 min), $0.22/IP, $5/30 days
 * [ProxyEmpire](https://proxyempire.io/?ref=ntayyzn) - $4-9/Gb, $125-250 dedicated mobile
+* [Ghost Proxy FR](https://api.x-402.online/rent) - France & **Guadeloupe / French Caribbean** (Orange AS16028) - dedicated port $39/7d (25Gb) or $129/30d (100Gb), own physical SIM, one client per line (metered $7/Gb also available via API). Live status page probes carrier/ASN/current IP/uptime every 10 min before you buy. USDC on Base/Solana, instant delivery - [Telegram](https://t.me/ghost_proxy_fr)
 
 * [Proxy-Store](https://proxy-store.com/?ref=160079) - TRASH, from $22/Gb, private port from $83, can change ip 2-3 times/day only LOL (Austria, Israel, UK, US)
 
