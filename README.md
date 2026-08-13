@@ -10,8 +10,8 @@ If you need other types of proxies, you can check [proxy providers list](https:/
 * [IPRoyal](https://iproyal.com/?r=381340) - $117-130/month
 * [922proxy](https://www.922proxy.com/index.html?inviter_code=eac554c7) - $3/GB (up to 60 min), $0.22/IP, $5/30 days
 * [ProxyEmpire](https://proxyempire.io/?ref=ntayyzn) - $4-9/Gb, $125-250 dedicated mobile
-
 * [Proxy-Store](https://proxy-store.com/?ref=160079) - TRASH, from $22/Gb, private port from $83, can change ip 2-3 times/day only LOL (Austria, Israel, UK, US)
+* [GonzoProxy](https://gonzoproxy.com/?utm_source=github) - $45/30d (Unlimited Data), Ukraine, Poland, Various 4G/5G Carriers, Unlimited manual/API rotation, HTTP(S)/SOCKS5, No KYC
 
 ## Unlimited (per port):
 
