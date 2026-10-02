@@ -70,6 +70,7 @@ I'm kinda tired to see aggregator websites, so I collected actual farm guys' con
 * [Siamproxy](https://siamproxy.com/) - Thailand $45 🛡️🧬 (trial just $5 for a day)
 * [MountProxies](https://mountproxies.com/) - USA
 * [HypeProxy](https://hypeproxy.io/) - USA, France $65+
+* [ProxyGateway](https://proxygateway.si/) - Slovenia (Telekom Slovenije), dedicated 4G, one modem per customer, HTTP and SOCKS5, new IP from the dashboard. €19 / 7 days, €42 / 30 days, prices exclude VAT
 
 ## Making your own mobile proxies
 * [Proxysmart](https://proxysmart.org)
