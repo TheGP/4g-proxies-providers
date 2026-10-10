@@ -20,6 +20,7 @@ Aggregators:
 * [Coronium](https://dashboard.coronium.io/en/sign-up#3c6d70584a0e53649fbe119333572b94) - 30+ countries, 🛡️ OpenVPN support (USA $129, UK $99, Germany $79, France $79, Spain $79, Poland $69, Netherlands $79, Ukraine $34, Georgia $50, Australia $129, Brazil $99, Italy $89, Portugal $79, Ireland $59, Canada $99, Japan $129, India $79, NZ $119)
 * [LteBoost](https://lteboost.com/)
 * [Cyberyozh](https://app.cyberyozh.com/?pid=62367664b06c4b0aac06b18b00767bf2&utm_source=github&utm_medium=4g-providers) - USA, Canada, Portugal, Germany, UK, France, Israel, Netherlands, Ireland, Italy, Austria, Poland, Ukraine, Colombia, Indonesia, Latvia, Moldova, Romania, Sweden, Australia, Israel (dedicated + shared, $50-162)
+* [Proxya](https://proxya.co/proxies/mobile) - USA (Verizon, T-Mobile, AT&T) 4G/5G from $85/m, UK (EE, O2, Three, Sky, Lyca) 4G/5G from $80/m unlimited 🛡️🧬
 
 I'm kinda tired to see aggregator websites, so I collected actual farm guys' contacts. Enjoy, and welcome to add the ones you know!
 
