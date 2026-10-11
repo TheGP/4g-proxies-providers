@@ -41,7 +41,7 @@ I'm kinda tired to see aggregator websites, so I collected actual farm guys' con
 * [ProxyBrothers](https://proxybrothers.com/german-mobile-proxy-with-real-devices-powered-by-iproxy-software/) - Germany
 * [Elén Petrova](https://t.me/elenwowpetrova) - Spain, $65
 * [KingProxyUK](https://t.me/KingProxyUK) - UK
-* [USProxy](https://usproxy.club/) - USA $85/m 🛡️
+* [BM USA PROXY](https://bmusproxy.com/) - USA $85/m ($10/day, $23/week), AT&T / T-Mobile / Verizon, 10 cities, unlimited data, free 1-hour test 🛡️
 * [MexicoProxy](https://t.me/mexicoproxy) - Mexico
 * [ObitelProxy](https://www.obitel-proxy.com/en/) - Poland - $45, Ukraine - $35 🛡️🧬 2h free test
 * [ProxyFastTR](https://t.me/ProxyFastTR) - Turkey
