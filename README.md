@@ -62,6 +62,7 @@ I'm kinda tired to see aggregator websites, so I collected actual farm guys' con
 * [Gold Estonia Proxy](https://t.me/xscamp33) - Estonia
 * [QazAkk Proxy](https://t.me/soloarbitrazhnik) $40 Kazakhstan, Georgia
 * [Dominate proxy](https://t.me/kirbythegreat) - Malaysia
+* [Singapore Mobile Proxy](https://singaporemobileproxy.com/?utm_source=github&utm_medium=4g-providers) - Singapore (Singtel, M1), $40/30d with 200GB, also $4/day and $13/week. Dedicated SIM + modem per port, rotation on demand, HTTP/SOCKS5, free 24h test (10GB, no card)
 * [HobbitProxy](https://mobile-proxy-belarus.com/) - Belarus $28
 * [HobbitProxy](https://proxy-hobbit-poland.com/en) - Poland $47.1
 * [CarrierProxy](https://carrierproxy.com/eng) - Russia $28, Poland $55, Thailand $45, Brazil $65, Peru $65, Germany $65, Netherlands $75, Belarus $35, USA $80, $70 Spain 🛡️
