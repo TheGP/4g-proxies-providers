@@ -70,6 +70,7 @@ I'm kinda tired to see aggregator websites, so I collected actual farm guys' con
 * [Siamproxy](https://siamproxy.com/) - Thailand $45 🛡️🧬 (trial just $5 for a day)
 * [MountProxies](https://mountproxies.com/) - USA
 * [HypeProxy](https://hypeproxy.io/) - USA, France $65+
+* [ProxyHub](https://proxyhub.it/en) - Italy, Netherlands, UK, USA. Dedicated smartphones 5G with physical SIM, IPv4 + IPv6 (dual stack) on every proxy, HTTP/SOCKS5, VLESS + REALITY, WireGuard and OpenVPN, IP rotation by link/API 🛡️
 
 ## Making your own mobile proxies
 * [Proxysmart](https://proxysmart.org)
