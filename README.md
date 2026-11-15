@@ -70,6 +70,7 @@ I'm kinda tired to see aggregator websites, so I collected actual farm guys' con
 * [Siamproxy](https://siamproxy.com/) - Thailand $45 🛡️🧬 (trial just $5 for a day)
 * [MountProxies](https://mountproxies.com/) - USA
 * [HypeProxy](https://hypeproxy.io/) - USA, France $65+
+* [ProxyGrow](https://proxygrow.com/en/?utm_source=github) - own modem farms: Romania (Digi, Orange) $60, Poland (Orange, Play, T-Mobile) $60, Ukraine (Kyivstar, Vodafone) $50 per 30 days. Dedicated modem slot, HTTP/SOCKS5/VLESS, IKEv2 VPN for RO/UA/PL, rotation by link/button/timer 🧬 1h free test (UA, RO Orange)
 
 ## Making your own mobile proxies
 * [Proxysmart](https://proxysmart.org)
