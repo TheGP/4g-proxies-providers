@@ -70,6 +70,7 @@ I'm kinda tired to see aggregator websites, so I collected actual farm guys' con
 * [Siamproxy](https://siamproxy.com/) - Thailand $45 🛡️🧬 (trial just $5 for a day)
 * [MountProxies](https://mountproxies.com/) - USA
 * [HypeProxy](https://hypeproxy.io/) - USA, France $65+
+* [ProProxies](https://www.proproxies.co.uk/) - UK $60, USA $85, Ireland $50, France $60, Germany $60, Spain $60, Netherlands $45, Australia $60 🛡️🧬 OpenVPN, plus WireGuard & AmneziaWG on all UK modems (dedicated modems, from $5/day)
 
 ## Making your own mobile proxies
 * [Proxysmart](https://proxysmart.org)
