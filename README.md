@@ -12,6 +12,7 @@ If you need other types of proxies, you can check [proxy providers list](https:/
 * [ProxyEmpire](https://proxyempire.io/?ref=ntayyzn) - $4-9/Gb, $125-250 dedicated mobile
 * [Proxy-Store](https://proxy-store.com/?ref=160079) - TRASH, from $22/Gb, private port from $83, can change ip 2-3 times/day only LOL (Austria, Israel, UK, US)
 * [GonzoProxy](https://gonzoproxy.com/?utm_source=github) - $45/30d (Unlimited Data), Ukraine, Poland, Various 4G/5G Carriers, Unlimited manual/API rotation, HTTP(S)/SOCKS5, No KYC
+* [Ashburn Proxies](https://ashburnproxies.com/?utm_source=github) - USA mobile proxies, $30/5 GB ($6 per GB) (1000 Dedicated USA Proxies included)
 
 ## Unlimited (per port):
 
